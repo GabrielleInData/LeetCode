@@ -21,6 +21,7 @@ Welcome to my collection of LeetCode
 | [0627-swap-salary](https://github.com/GabrielleInData/LeetCode/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/GabrielleInData/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1153-product-sales-analysis-i](https://github.com/GabrielleInData/LeetCode/tree/master/1153-product-sales-analysis-i) |
+| [1161-project-employees-i](https://github.com/GabrielleInData/LeetCode/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/GabrielleInData/LeetCode/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/GabrielleInData/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/GabrielleInData/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
