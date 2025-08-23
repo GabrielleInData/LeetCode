@@ -24,6 +24,7 @@ Welcome to my collection of LeetCode
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/GabrielleInData/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1153-product-sales-analysis-i](https://github.com/GabrielleInData/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/GabrielleInData/LeetCode/tree/master/1161-project-employees-i) |
+| [1179-game-play-analysis-i](https://github.com/GabrielleInData/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/GabrielleInData/LeetCode/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/GabrielleInData/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/GabrielleInData/LeetCode/tree/master/1541-top-travellers) |
